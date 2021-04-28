@@ -30,7 +30,7 @@ UI using JavaScript
 
 # Learn Aws Lambda
 
-![aws lambda intro image](http://i.imgur.com/9ImDKrv.jpg)
+![aws lambda intro image](https://static01.m-square.com.au/wp-content/uploads/2017/04/media.amazonwebservices.comAWS-Lex-Lambda-Chatbot-Ch-c5bbfce23bb59aa51bf92c10e637a0ed2b183bf2.png)
 
 Learn to use AWS Lambda to create scalable micro-services in less time
 and cost *far* less to run than "*traditional*" server-based apps.
