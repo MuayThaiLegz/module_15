@@ -97,4 +97,5 @@ something to S3 on each execution cycle you could rack up the bill!
 
 -------
 
-![Amazon Lex and 3 more pages - Personal - Microsoft​ Edge 4_28_2021 4_41_16 PM](https://user-images.githubusercontent.com/73854785/116491105-f0277d00-a84d-11eb-8e43-d244bc4afd74.png)
+![image](https://user-images.githubusercontent.com/73854785/116491349-8360b280-a84e-11eb-9202-6332bf614ac0.png)
+
