@@ -97,5 +97,12 @@ something to S3 on each execution cycle you could rack up the bill!
 
 -------
 
+## Amazon Lex RoboAdvisor
 ![image](https://user-images.githubusercontent.com/73854785/116491349-8360b280-a84e-11eb-9202-6332bf614ac0.png)
 
+-------
+
+## Amazon Lex RoboAdvisor Video 
+https://user-images.githubusercontent.com/73854785/116491994-09c9c400-a850-11eb-9857-96116b9a7864.mp4
+
+-------
