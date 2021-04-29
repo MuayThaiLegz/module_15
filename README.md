@@ -97,8 +97,9 @@ something to S3 on each execution cycle you could rack up the bill!
 
 -------
 
-## Amazon Lex RoboAdvisor
-![image](https://user-images.githubusercontent.com/73854785/116491349-8360b280-a84e-11eb-9202-6332bf614ac0.png)
+## Amazon Lambda RoboAdvisor Function 
+![recommendPortfolio](https://user-images.githubusercontent.com/73854785/116492490-3c27f100-a851-11eb-82ad-12ff4ded8517.png)
+
 
 -------
 
